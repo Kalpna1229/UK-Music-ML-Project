@@ -22,3 +22,11 @@ Achieved ~90% accuracy in predicting hit songs.
 - Pandas
 - Scikit-learn
 - Google Colab
+
+## 📊 Visualizations
+
+### Feature Importance
+![Feature Importance](Screenshot 2026-04-16 190359.png)
+
+### Popularity Distribution
+![Popularity](Screenshot 2026-04-16 181758.png)
