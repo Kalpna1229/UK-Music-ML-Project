@@ -26,7 +26,7 @@ Achieved ~90% accuracy in predicting hit songs.
 ## 📊 Visualizations
 
 ### Feature Importance
-![Feature Importance](Screenshot 2026-04-16 190359.png)
+![Feature Importance](feature_importance.png)
 
 ### Popularity Distribution
-![Popularity](Screenshot 2026-04-16 181758.png)
+![Popularity](popularity_distribution.png)
